@@ -6,4 +6,5 @@ The game presents Numberlink puzzles: each puzzle has a grid of squares with col
 
 A video from game
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/54143711/127112974-da0b9b1b-a03e-4f9d-af21-3c4d5c2564eb.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/54143711/127113267-bc8391cb-1dc4-4133-9359-673c3d54f630.gif)
+
